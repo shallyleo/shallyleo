@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on any Data Science Project
-- 📫 How to reach me shalomloe98@gmail.com
+- 📫 How to reach me shalomnuhu0@gmail.com
   
 
 <!---
